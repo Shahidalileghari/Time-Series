@@ -1,0 +1,1 @@
+Advanced time-series forecasting and intelligence toolkit: rolling backtesting, anomaly detection, change points, temporal features, and optional LSTM.

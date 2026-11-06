@@ -1,0 +1,11 @@
+data:
+  timestamp_column: timestamp
+  target_column: value
+forecast:
+  horizon: 7
+  initial_train_size: 90
+  model: seasonal_naive
+  season_length: 7
+evaluation:
+  method: expanding_window
+  step: 1
